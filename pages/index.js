@@ -17,8 +17,8 @@ export default function Home() {
         <div className={styles.grid}>
         <iframe 
             title="Inline Frame Example"
-            width="1600"
-            height="900"
+            width="1000"
+            height="700"
             samesite="none"
             secure="true"
             src="https://pat.test.maiia.com">
