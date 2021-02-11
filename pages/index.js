@@ -21,7 +21,7 @@ export default function Home() {
             height="700"
             samesite="none"
             secure="true"
-            src="https://www.maiia.com">
+            src="https://pro.maiia.com">
             </iframe>
         </div>
       </main>
