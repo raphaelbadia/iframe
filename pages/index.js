@@ -19,7 +19,9 @@ export default function Home() {
             title="Inline Frame Example"
             width="1600"
             height="900"
-            src="https://pro.test.maiia.com">
+            samesite="none"
+            secure="true"
+            src="https://pat.test.maiia.com">
             </iframe>
         </div>
       </main>
