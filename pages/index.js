@@ -19,9 +19,7 @@ export default function Home() {
             title="Inline Frame Example"
             width="1000"
             height="700"
-            samesite="none"
-            secure="true"
-            src="https://pro.maiia.com">
+            src="https://www.rdvmedicaux.com">
             </iframe>
         </div>
       </main>
